@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ENGLISH</title>
+<style type="text/css">
+#header{
+background-color:black;
+color:white;
+text-align:centre;
+}
+#section{
+width:350px;
+float:left;
+}
+</head>
+<body>
+<div>
+<h1>ENGLISH  COURSE</h1>
+</div>
+<div>
+ENGLISH GRAMMER<br>
+ENGLISH SPEAKING<br>
+</div>
+<h2>tutorials</h2>
+<p>we come here to learn you the best english courses</p>
+</div>
+</body>
+</html>
+
+
+
